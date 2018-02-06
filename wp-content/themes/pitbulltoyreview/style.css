@@ -1,0 +1,14 @@
+/*
+Theme Name: Pit Bull Toys Review
+Template: twentyeleven
+*/
+
+@import url("/wp-content/themes/twentyeleven/style.css");
+
+#pbt-ad-banner, #pbt-ad-skyscraper, #pbt-ad-leaderboard {
+	text-align: center;
+}
+
+#pbt-ad-banner ins, #pbt-ad-skyscraper ins, #pbt-ad-leaderboard ins {
+	background: none;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pit Bull Toys Review &#187; Dog Videos</title>
+	<atom:link href="/category/dog-videos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Toys that stand up to bully breed jaw power</description>
+	<lastBuildDate>Tue, 06 Aug 2013 23:37:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.2</generator>
+		<item>
+		<title>Dose of Adorable</title>
+		<link>/dog-videos/dose-of-adorable/#utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dose-of-adorable</link>
+		<comments>/dog-videos/dose-of-adorable/#comments</comments>
+		<pubDate>Sat, 06 Jul 2013 18:27:53 +0000</pubDate>
+		<dc:creator>Pit Bull Toys</dc:creator>
+				<category><![CDATA[Dog Videos]]></category>
+		<category><![CDATA[Exercise]]></category>
+		<category><![CDATA[Puppies]]></category>
+		<category><![CDATA[Treadmill]]></category>
+
+		<guid isPermaLink="false">http://dev.raearnold.com/?p=87</guid>
+		<description><![CDATA[A determined pitbull puppy doesn’t give up on trying to walk with the big dogs.]]></description>
+				<content:encoded><![CDATA[<p>A determined pitbull puppy doesn’t give up on trying to walk with the big dogs.</p>
+<p><iframe width="640" height="360" src="//www.youtube.com/embed/SP4MgE6EmJE" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>/dog-videos/dose-of-adorable/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
